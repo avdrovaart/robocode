@@ -1,0 +1,45 @@
+roborumble,35,800x600,Put_Your_Name_Here,1602863426684,SERVER
+pulsar.PulsarMax 0.8.9,4404,1919,34
+divineomega.PatrollerBot 1.0,469,393,1
+roborumble,35,800x600,Put_Your_Name_Here,1602863428722,SERVER
+ary.Help 1.0,5635,2946,35
+elvbot.ElverionBot 0.3,20,20,0
+roborumble,35,800x600,Put_Your_Name_Here,1602863430402,SERVER
+fullsail.LaxativeTeaTwo 1.0,3225,1609,23
+robar.nano.Breeze 0.3,2252,1392,12
+roborumble,35,800x600,Put_Your_Name_Here,1602863434312,SERVER
+jk.sheldor.nano.Yatagan 1.2.3,3633,1452,31
+ratosh.Wesco 1.4,897,532,4
+roborumble,35,800x600,Put_Your_Name_Here,1602863435722,SERVER
+jekl.mini.BlackPearl .91,7288,4089,35
+logiblocs.SittingDroid 1.0,0,0,0
+roborumble,35,800x600,Put_Your_Name_Here,1602863437360,SERVER
+kms.Golden 0.10,4947,2482,32
+sadoner.killer 0.2,1561,1298,3
+roborumble,35,800x600,Put_Your_Name_Here,1602863438886,SERVER
+gh.micro.Grinnik 1.0,5050,2515,34
+cb.nano.Insomnia 1.0,652,590,1
+roborumble,35,800x600,Put_Your_Name_Here,1602863442249,SERVER
+penguin.MrFreeze 1.0a,5298,2661,35
+uccc.RingDing 1.12,324,320,0
+roborumble,35,800x600,Put_Your_Name_Here,1602863444161,SERVER
+gtf.robocode.Strafer 2.1.1,4058,2615,17
+jaybot.bots.Oddball 4.0,2774,1449,18
+roborumble,35,800x600,Put_Your_Name_Here,1602863447481,SERVER
+simonton.mini.WeeksOnEnd 1.10.4,5854,3129,35
+is.fon.rs.Kamikaza 1.0,10,10,0
+roborumble,35,800x600,Put_Your_Name_Here,1602863449056,SERVER
+reeder.colin.WallGuy3 1.0,3795,2129,22
+sample.Crazy 1.0,1043,200,14
+roborumble,35,800x600,Put_Your_Name_Here,1602863451500,SERVER
+bjl.LoneDragon 0.5,4471,2264,30
+marcinek.TopGun 1.3,1626,1249,5
+roborumble,35,800x600,Put_Your_Name_Here,1602863453003,SERVER
+gu.MicroScoob 1.3,5564,2945,34
+pbg.NinjaX 1.2,383,313,1
+roborumble,35,800x600,Put_Your_Name_Here,1602863458770,SERVER
+bvh.fry.Freya 0.82,5118,2626,33
+lunchie.Lunchbox 0.93,1138,992,2
+roborumble,35,800x600,Put_Your_Name_Here,1602863464327,SERVER
+ags.micro.Carpet 1.1,5427,2772,35
+FatalFlaw.FatalFlaw 1.0.5,527,520,0
