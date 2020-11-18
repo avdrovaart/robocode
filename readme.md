@@ -1,3 +1,6 @@
+Workshop repo voor robocode
+Gebruik makend van: https://robocode.sourceforge.io/
+
 # Benodigd: 
 * Java 8 JDK
 
