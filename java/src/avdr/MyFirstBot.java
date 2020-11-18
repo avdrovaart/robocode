@@ -13,11 +13,10 @@ public class MyFirstBot extends Robot {
     public void run() {
         setRadarColor(Color.CYAN);
         while (true) {
-            turnRight(1);
             while (getGunHeat() > 0) {
-                turnGunRight(360);
+                turnRight(1);
             }
-            fireBullet(3.0);
+            fireBullet(0.1);
         }
     }
 
