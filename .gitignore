@@ -1,6 +1,5 @@
 java/out
 .idea
 *.iml
-app/config
-app/robots
+app/
 
