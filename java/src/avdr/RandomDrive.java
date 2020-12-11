@@ -3,12 +3,13 @@ package avdr;
 import robocode.HitRobotEvent;
 import robocode.HitWallEvent;
 import robocode.Robot;
+import robocode.util.Utils;
 
 import java.awt.*;
 import java.util.Random;
 
 public class RandomDrive extends Robot {
-    private Random random = new Random();
+    private Random random = Utils.getRandom();
 
     @Override
     public void run() {

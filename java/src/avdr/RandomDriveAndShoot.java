@@ -8,7 +8,7 @@ import java.awt.*;
 import java.util.Random;
 
 public class RandomDriveAndShoot extends Robot {
-    private Random random = new Random();
+    private Random random = Utils.getRandom();
 
     @Override
     public void run() {
